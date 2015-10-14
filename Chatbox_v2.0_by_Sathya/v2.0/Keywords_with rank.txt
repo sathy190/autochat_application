@@ -1,0 +1,52 @@
+=========================================================================================================================================
+Key_word		      Rank	Possible Output								Remarks
+=========================================================================================================================================
+[A|a]like			8	In what way?,
+					what resemblance do you see,
+					How is it?
+[S|s]omething			4	can you give me specific example
+					what exactly?
+					can you be precise about it?
+[U|u]nhappy			8	what is the problem?
+					what happenned?,
+					what's the reason
+[H|h]elp			7	How can i help you?,
+					what kind of help?,
+					what would it mean to you if you got some help
+[L|l]ike		    	6	Like What?,
+					what resemblance do you see,
+					how it like
+[T|t]akescare			10	who else takes care?,
+					How they takes care,
+					Are you cared properly?
+[D|d]epressed			10	sorry to hear that you are depressed
+					are you really depressed?
+					are you alright now?
+[L|l]earn			8	Hmmmm Its good to learn,
+					what you learnt?,
+					please explain what you learnt
+[A|a]fraid			9	I am sorry to hear that,
+					whats there to afraid?,
+					who fears you
+[P|p]roblem			8	feel free to explain more about your problem,
+					do yo think i can solve this problem,
+					Problems are always there in every ones life
+[F|f]amily			9	Tell me more about your family,
+					who are all in your family?
+					How many people in your family?
+[C|c]ook.*			10	which is your favourite food?,					Anything followed by cook/Cook, like cooks
+					who cooks good in your family,					or Cooking	
+					Do you know cooking
+[C|c]ars			10	do you like car ride?,
+					which is your favourite car?,
+					You own any car?
+[D|d]ifficult			4	Whats so difficult?
+					How its difficult?
+					Try to managage difficulty
+[A|a]rgue			5	Yeah, arguing is not good,
+					What kind of arguement?
+					I dont like arguing with people.
+[F|f]ood			10	which is your favourite food?,
+					which is your favourite cuisine?,
+					Do you like spicy food?
+			 				
